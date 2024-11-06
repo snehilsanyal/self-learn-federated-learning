@@ -4,16 +4,22 @@ This repository contains a roadmap for beginner's to start their journey on Fede
 
 ## 👋🏻 Introductory Resources
 
-1. Start off with this funny and insightful cartoon on Federated Learning by [**Google AI**](https://federated.withgoogle.com/). The same site contains a list of learning resources and research done by Google on Federated Learning. 
+1. Start off with this funny and insightful comic on Federated Learning by [**Google AI**](https://ai.google/). The same site contains a list of learning resources and research done by Google on Federated Learning. 
+    
+    **Link:**   [**Federated Learning Online Comic**](https://federated.withgoogle.com/)
 
 2. The first paper on Federated learning was by Google Inc in 2017. The authors presented a new learning paradigm where the data remains distributed in several mobile devices but the model is trained in a decentralized way. Instead of data moving to a centralized server, the model moves to distributed devices.
 Quoting from the Abstract (had to mention it lol):
-> **We advocate an alternative that leaves the training data distributed on
+    > **We advocate an alternative that leaves the training data distributed on
 the mobile devices, and learns a shared model by
 aggregating locally-computed updates. We term
 this decentralized approach Federated Learning.**
 
-Read the blog first: [**Federated Learning: Collaborative Machine Learning without Centralized Training Data**](https://research.google/blog/federated-learning-collaborative-machine-learning-without-centralized-training-data/)paper here: [Communication-efficient learning of deep networks from decentralized data](https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
+    **Blog:** [**Federated Learning: Collaborative Machine Learning without Centralized Training Data**](https://research.google/blog/federated-learning-collaborative-machine-learning-without-centralized-training-data/)
+
+    **Paper:** [**Communication-efficient learning of deep networks from decentralized data**](https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
+    
+    Read the blog first, to get an overall picture of the work, then jump on to the paper for the nitty-gritty details.
 
 3. The next paper is again by Google Research. This time the paper deals with Keyword Prediction 
 

@@ -1,5 +1,7 @@
 # 🏫🙋🏻 Self Learn Federated Learning
 
+## ⚒ 💻 Work in Progress
+
 This repository contains a roadmap for beginner's to start their journey on Federated Learning. Self-curated. The difficulty will be moderate and expects prior knowledge about Python and Deep Learning concepts.
 
 ## 👋🏻 Introductory Resources
@@ -24,9 +26,9 @@ this decentralized approach Federated Learning.**
 3. The next paper is again by Google Research. This time the paper deals with Keyword Prediction 
 
 
-## 🧑🏻‍💻 Hands-Dirty FL
+## ⚒💻 Hands-Dirty FL
 
-### 💻 FL Libraries  
+### 🗃💻 FL Libraries  
 In the order of ease of usage (currently trying Flower, Syft and TF-Federated, will update the order):
 1. Flower Labs
 2. TensorFlow Federated
@@ -36,16 +38,16 @@ In the order of ease of usage (currently trying Flower, Syft and TF-Federated, w
 
 
 
-### 🧑🏻‍🎓 FL Tutorials
+### 🤷🏻‍♂️💻 FL Tutorials
 
 
 
 
 ## FL Usecases
 
-## FL Papers
+## 📰📜 FL Papers
 
-## FL Books 
+## 📚📔 FL Books 
 
 ## FL Courses 
 
@@ -53,6 +55,6 @@ In the order of ease of usage (currently trying Flower, Syft and TF-Federated, w
 
 ## FL Research Labs 
 
-## FL Organizations 
+## 🏢🏛 FL Organizations 
 
 ## FL Companies

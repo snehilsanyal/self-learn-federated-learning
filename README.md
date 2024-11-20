@@ -30,11 +30,12 @@ this decentralized approach Federated Learning.**
 
 ### 🗃💻 FL Libraries  
 In the order of ease of usage (currently trying Flower, Syft and TF-Federated, will update the order):
-1. Flower Labs
-2. TensorFlow Federated
-3. PySyft
-4. FATE
-5. CLARA
+1. Flower by Flower Labs
+2. TensorFlow Federated by [**Google PARFAIT**](https://github.com/google-parfait)
+3. PySyft by [**OpenMined**](https://openmined.org/)
+4. FATE by FedAI Ecosystem
+5. CLARA by NVIDIA
+6. Substra by Owkin
 
 
 
@@ -51,10 +52,35 @@ In the order of ease of usage (currently trying Flower, Syft and TF-Federated, w
 
 ## FL Courses 
 
+1. [**DL.AI X Flower Labs, Short Course on Intro to Federated Learning**]
+2. [**DL.AI X Flower Labs, Short Course on Federated Fine-tuning of LLMs with Private Data**]
+
 ## FL Blogs
 
 ## FL Research Labs 
 
+1. [**Federated GitHub by Google Research:**](https://github.com/google-research/federated)A collection of Google research projects related to Federated Learning and Federated Analytics.
+2. 
+
+## FL Communities
+
+1. [**The Federated Learning Portal:**](https://federated-learning.org/) This portal keeps track of books, workshops, conferences, special tracks, and other events related to the field of FL. I came to know about many competitions in the domain of FL from this webpage.
+2. [**OpenMined Slack**](https://openmined.slack.com/signup#/domain-signup)
+3. [**Flower Labs Slack**](https://friendly-flower.slack.com/join/shared_invite/zt-2n8akh4dw-T9we9L6yXSp_z_ofodL4GQ#/shared-invite/email)
+4. [**FedML Discord**](https://discord.com/invite/9xkW8ae6RV)
+5. 
+
+## 🐱‍💻🕹 FL Hackathons, Competitions and Challenges
+
+
+
+
 ## 🏢🏛 FL Organizations 
 
+1. OpenMined
+
 ## FL Companies
+
+1. Flower Labs
+2. Owkin
+3. 
